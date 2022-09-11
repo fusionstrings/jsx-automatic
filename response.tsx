@@ -1,5 +1,5 @@
 import render from "preact-render-to-string";
-import { typeByExtension } from "https://deno.land/std@0.150.0/media_types/mod.ts";
+import { typeByExtension } from "https://deno.land/std@0.155.0/media_types/mod.ts";
 import { Home } from "./home.tsx";
 import { NotFound } from "./404.tsx";
 import { ServerError } from "./500.tsx";
