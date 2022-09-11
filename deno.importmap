@@ -1,0 +1,12 @@
+{
+  "scopes": {
+    "./": {
+      "preact": "https://ga.jspm.io/npm:preact@10.10.6/dist/preact.mjs",
+      "preact-render-to-string": "https://ga.jspm.io/npm:preact-render-to-string@5.2.4/dist/index.mjs",
+      "preact/jsx-runtime": "https://ga.jspm.io/npm:preact@10.10.6/jsx-runtime/dist/jsxRuntime.mjs",
+    },
+    "https://ga.jspm.io/": {
+      "preact": "https://ga.jspm.io/npm:preact@10.10.6/dist/preact.mjs"
+    }
+  }
+}
